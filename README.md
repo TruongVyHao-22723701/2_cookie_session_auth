@@ -4,7 +4,7 @@ npm install express
 
 Mở terminal run : node app.js
 
-**-Register**
+## -Register
 
 **Register thành công:** 
 
@@ -57,7 +57,7 @@ Trống username:
 <img width="832" height="745" alt="image" src="https://github.com/user-attachments/assets/f3e99b01-d914-4453-9ea4-9c752e973c3a" />
 
 
-**-Login**
+## -Login
 
 **TH1: Login thành công**
 
@@ -91,7 +91,7 @@ Trong Postman, chọn POST và nhập URL: http://localhost:3000/auth/login, tro
 <img width="845" height="717" alt="image" src="https://github.com/user-attachments/assets/3523df54-be55-492e-a274-e5e409bbab34" />
 
 
-**-Truy cập Profile**
+## -Truy cập Profile
 
 **TH1: Get/profile khi đã đập nhập**
 Trong Postman, chọn GET và nhập URL: http://localhost:3000/auth/profile -> Send -> Kết quả trả về : {
@@ -106,7 +106,7 @@ Trong Postman, chọn GET và nhập URL: http://localhost:3000/auth/profile -> 
 
 
 
-**- Logout**
+## - Logout
 
 Logout successful:
 Trong Postman, chọn GET và nhập URL: http://localhost:3000/auth/logout -> Send -> Result: 
